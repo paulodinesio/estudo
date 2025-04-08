@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('torcida.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  .container {
+    background-color: rgba(0, 0, 0, 0.7); /* fundo escuro com transparência */
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    text-shadow: 1px 1px 2px #000;
+  }
+
+  mark {
+    background-color: yellow;
+    color: black;
+  }
+
+  h1, h2, h3 {
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+  }
+
+  hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+  }
